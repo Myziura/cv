@@ -4,7 +4,7 @@
 
 **Senior JavaScript Front-end Developer (Vue.js | Nuxt.js)**
 
-[LinkedIn](https://www.linkedin.com/in/myziura/?locale=en_US) | [Github](https://github.com/Myziura) | [Email](mailto:myziura.work@gmail.com) | [Code examples](https://github.com/Myziura)
+[LinkedIn](https://www.linkedin.com/in/myziura/?locale=en_US) | [Github](https://github.com/Myziura) | [Email](mailto:myziura.work@gmail.com) | [Code examples](https://github.com/Myziura/cv/tree/main/Code%20examples)
 
 ## ⚙️ Skills
 
