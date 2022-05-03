@@ -87,7 +87,7 @@ It is an aggregator website for finding plane tickets. We compare all available 
 - Hebrew support, including right-to-left layouts
 - Participation in front-end performance analysis and estimation tasks
 
-**Technologies:** JavaScript (ES6 6+), Vue 2, HTML5 / CSS3 (SCSS), Vuex, Socket.io, Heroku, Webpack, Babel, i18n, momentjs, axios, lodash, eslint, npm, REST API, etc
+**Technologies:** JavaScript (ES6 6+), Vue 2, HTML5 / CSS3 (SCSS), Vuex, Socket.io, Heroku, Webpack, Babel, i18n, momentjs, axios, lodash, eslint, npm, REST API, etc  
 **Role:** JavaScript Front-end   Developer & Product Manager  
 **Team:** 4 members
 
