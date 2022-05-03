@@ -104,7 +104,7 @@ An online multiplayer game for a group of friends, in which you have to come up 
 
 **Technologies:** JavaScript (ES6+), Vue 2, Vuex, HTML5 / CSS3 (SCSS), Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Socket.io, Webpack, Tailwind CSS, Heroku, axios, lodash, prettier, eslint, REST API, etc
 **Role:** Full-Stack JavaScript Developer Vue.js & Node.js
-**Team:** 1 members
+**Team:** 1 member
 
 
 ## 📚 Education
