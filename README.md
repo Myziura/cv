@@ -68,8 +68,8 @@ The customer is the largest producer of sunflower oil in Ukraine, as well as one
 - Daily meetings with the team and the product owner's representative
 - Tracking the updates for existing technologies and implementing new ones
 
-**Technologies:** JavaScript (ES6+), Vue 2, Nuxt 2, Vuex, Webpack, HTML5 / CSS3 (SCSS), Tailwind CSS, i18n, dayjs, axios, lodash, prettier, eslint, npm, yarn, REST API, etc
-**Role:** Senior JavaScript Front-end Developer (Vue.js | Nuxt.js)
+**Technologies:** JavaScript (ES6+), Vue 2, Nuxt 2, Vuex, Webpack, HTML5 / CSS3 (SCSS), Tailwind CSS, i18n, dayjs, axios, lodash, prettier, eslint, npm, yarn, REST API, etc  
+**Role:** Senior JavaScript Front-end Developer (Vue.js | Nuxt.js)    
 **Team:** 7 members
 
 ### Wexplors `2018 - 2019`
@@ -88,7 +88,7 @@ It is an aggregator website for finding plane tickets. We compare all available 
 - Participation in front-end performance analysis and estimation tasks
 
 **Technologies:** JavaScript (ES6 6+), Vue 2, HTML5 / CSS3 (SCSS), Vuex, Socket.io, Heroku, Webpack, Babel, i18n, momentjs, axios, lodash, eslint, npm, REST API, etc
-**Role:** JavaScript Front-end Developer & Product Manager
+**Role:** JavaScript Front-end   Developer & Product Manager  
 **Team:** 4 members
 
 ### Captions Clash `in free time`
@@ -102,8 +102,8 @@ An online multiplayer game for a group of friends, in which you have to come up 
 - Performance tuning
 - End-To-End testing multiple users with Selenium & Mocha
 
-**Technologies:** JavaScript (ES6+), Vue 2, Vuex, HTML5 / CSS3 (SCSS), Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Socket.io, Webpack, Tailwind CSS, Heroku, axios, lodash, prettier, eslint, REST API, etc
-**Role:** Full-Stack JavaScript Developer Vue.js & Node.js
+**Technologies:** JavaScript (ES6+), Vue 2, Vuex, HTML5 / CSS3 (SCSS), Tailwind CSS, Node.js, Express, MongoDB, Mongoose, Socket.io, Webpack, Tailwind CSS, Heroku, axios, lodash, prettier, eslint, REST API, etc  
+**Role:** Full-Stack JavaScript Developer Vue.js & Node.js  
 **Team:** 1 member
 
 
