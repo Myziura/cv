@@ -37,7 +37,7 @@
 
 ## 🦉 Work Experience
 
-* Kernel `October 2019 – March 2022`
+* Kernel `October 2019 – present`
   * **Transithub**\*
 * [Freelance](https://freelancehunt.com/freelancer/misha_myziura.html) `2016 - October 2019`
   * Zlott
