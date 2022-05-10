@@ -111,7 +111,7 @@ An online multiplayer game for a group of friends, in which you have to come up 
 
 ### Poltava National Technological University
 
-* **Master's degree** of Computer Science `2021 – present`
+<!-- * **Master's degree** of Computer Science `2021 – present` -->
 * **Bachelor's degree** of Computer Science `2017 – 2021`
 
 ## 📎 About
