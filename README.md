@@ -13,7 +13,7 @@
 - JavaScript (ES6+) `5 years`
 - HTML5 / CSS3 (SCSS) `5 years`
 - Vue 2 /  Nuxt 2 / Vuex / Webpack `5 years`
-- Vue 3 (Composition API) / Nuxt 3 / Pinia / Vite `< 1 year`
+- TypeScript / Vue 3 (Composition API) / Nuxt 3 / Pinia / Vite `< 1 year`
 - PWA, Tailwind CSS, Element UI, Bootstrap, Vuetify, Pixel Perfect, etc
 
 #### Back-End
